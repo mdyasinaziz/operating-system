@@ -1,0 +1,1 @@
+Make The Code For FCFS, SJF (non  peemptive), SJF (preemptive)
